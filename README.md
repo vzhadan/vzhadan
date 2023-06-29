@@ -15,7 +15,7 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GIT" width="26px" src="[hhttps://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg](https://git-scm.com/downloads/logos)" style="padding-right:10px;" />
+<img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenCV" width="26px" src="hhttps://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
 
