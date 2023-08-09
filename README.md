@@ -24,6 +24,8 @@
 <img align="left" alt="AWS" width="26px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" style="padding-top:10px;" />
 <br />
 
+[![](https://visitcount.itsvg.in/api?id=zhadavla&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 ---
 
 # 42Prague progress
